@@ -21,6 +21,7 @@ Despite progress in reducing infant mortality rates globally, challenges persist
 </ul>
 <hr>
 <p> Multiple Linear Regression, Random Forest, and KNN were the best model that  predicted infant mortality</p>
+
 Presentation link:
 https://docs.google.com/presentation/d/1-AIGJfcVjd-7omIF0v-EnSxMXxmLNFZK6XO4DmIH7D4/edit?usp=drivesdk
 
